@@ -1,2 +1,4 @@
 # hello-world
-just first repository
+最初のリポジトリ
+リポジトリの作成をしました。
+ブランチを作成します
